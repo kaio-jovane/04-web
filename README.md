@@ -1,7 +1,6 @@
 # Atividade de Web - Site de Viagens
 
-**Desenvolvedor:** Kaio Jovane
-**Disciplina/Período:** Sistemas de Informação - 3º Período
+## Kaio Jovane Rocha de Oliveira
 
 ## 📖 Sobre o Projeto
 
